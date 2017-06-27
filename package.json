@@ -1,7 +1,7 @@
 {
-  "name": "ethereumjs-units",
+  "name": "expansejs-units",
   "version": "0.2.0",
-  "description": "Ethereum unit conversion.",
+  "description": "Expanse unit conversion.",
   "main": "index.js",
   "scripts": {
     "coverage": "istanbul cover _mocha",
@@ -12,19 +12,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethereumjs/ethereumjs-units.git"
+    "url": "git+https://github.com/expansejs/expansejs-units.git"
   },
   "keywords": [
     "ethereum",
+    "expanse",
     "units",
     "conversion"
   ],
   "author": "Alex Beregszaszi <alex@rtfs.hu>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ethereumjs/ethereumjs-units/issues"
+    "url": "https://github.com/expansejs/expansejs-units/issues"
   },
-  "homepage": "https://github.com/ethereumjs/ethereumjs-units#readme",
+  "homepage": "https://github.com/expansejs/expansejs-units#readme",
   "dependencies": {
     "bignumber.js": "^2.3.0"
   },
