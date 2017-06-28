@@ -1,6 +1,6 @@
 # expansejs-units
 [![NPM Package](https://img.shields.io/npm/v/expansejs-units.svg?style=flat-square)](https://www.npmjs.org/package/expansejs-units)
-[![Build Status](https://img.shields.io/travis/ethereumjs/ethereumjs-units.svg?branch=master&style=flat-square)](https://travis-ci.org/expansejs/expansejs-units)
+[![Build Status](https://img.shields.io/travis/expansejs/expansejs-units.svg?branch=master&style=flat-square)](https://travis-ci.org/expansejs/expansejs-units)
 
 Unit conversion utility.
 Based on [ethereumjs-units](http://github.com/ethereumjs/ethereumjs-units).
